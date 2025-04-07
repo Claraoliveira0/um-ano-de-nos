@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Um ano de nós 💘</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Um ano de nós 💖</h1>
+
+    <div class="cartinha">
+      <h2>Minha cartinha pra você</h2>
+      <p>
+        Amor, há um ano nossos caminhos se cruzaram de forma tão linda e
+        inesperada. Desde então, você tem sido meu aconchego, minha risada
+        favorita e meu lugar no mundo. Cada momento ao seu lado é especial e
+        único, e hoje só consigo agradecer por te ter comigo. Você é o meu
+        presente mais bonito, meu sonho vivido, e tudo o que quero para o
+        amanhã. Que venham muitos outros anos, com o coração cheio de amor,
+        cuidado e companheirismo. Eu te amo! <br /><br />
+        — Clara 💌
+      </p>
+    </div>
+
+    <div class="canva-embed">
+      <iframe
+        loading="lazy"
+        src="https://www.canva.com/design/DAGKgxSodDI/3FCoJCO0XxqMP7oMSicCkg/view?embed"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    <a
+      class="button"
+      href="https://www.canva.com/design/DAGKgxSodDI/3FCoJCO0XxqMP7oMSicCkg/view?utm_content=DAGKgxSodDI&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
+      target="_blank"
+      rel="noopener"
+    >
+      Ver álbum no Canva 💌
+    </a>
+
+    <div class="video-romantico">
+      <h2>🎵 Nossa música 🎵</h2>
+      <iframe
+        class="youtube"
+        src="https://www.youtube.com/embed/ghFocBG78FA"
+        title="Inesperado - Jorge & Mateus"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+      <br />
+
+      <a
+        class="button"
+        href="https://youtu.be/ghFocBG78FA"
+        target="_blank"
+        rel="noopener"
+      >
+        Ouvir no YouTube
+      </a>
+    </div>
+
+    <div class="resposta-do-namorado">
+      <h3>Escreva algo pra mim 💌</h3>
+      <br />
+      <textarea placeholder="Escreve aqui, amorzinho..."></textarea>
+      <br />
+      <button>Enviar ❤️</button>
+    </div>
+  </body>
+</html>
